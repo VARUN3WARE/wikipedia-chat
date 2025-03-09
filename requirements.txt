@@ -1,0 +1,8 @@
+streamlit
+wikipedia-api
+ollama
+faiss-cpu
+numpy
+langchain 
+sentence-transformers
+python-docx
