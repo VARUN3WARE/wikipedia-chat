@@ -10,4 +10,6 @@ This project allows users to interact with Wikipedia content through a Q&A inter
 - **Streamlit Interface**: Simple and clean user interface built with Streamlit.
 
 
+![Screenshot from 2025-03-10 01-09-53](https://github.com/user-attachments/assets/7ca147bf-4976-43cf-9878-0ede3eb82f6a)
+
 
